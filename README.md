@@ -13,7 +13,7 @@
 ## Data Sources
 - **Atmocube Sensor:** Commercial environmental monitoring device for air quality parameters
 - **Custom Sensirion SEN55 Sensor:** Laboratory-built environmental sensor developed by SMART Lab for particulate matter and environmental monitoring
-![Sensirion Sensor built by SMART Lab](images/Sensirion%20Sensor%20built%20by%20SMART%20Lab.JPG)
+![Sensirion Sensor built by SMART Lab](Sensirion%20Sensor%20built%20by%20SMART%20Lab.JPG)
 
 For detailed technical specifications and methodology regarding the custom Sensirion SEN55 sensors and their integration into our digital twin project, please refer to:  
 **Paper:** https://doi.org/10.5194/isprs-annals-X-G-2025-1053-2025
