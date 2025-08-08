@@ -25,7 +25,7 @@ For detailed technical specifications and methodology regarding the custom Sensi
 - The custom-built Sensirion SEN55 sensors (Numbers 2 and 7) may exhibit different calibration characteristics compared to commercial equivalents
 
 ### Acknowledgment
-Data collected at New York University Abu Dhabi by the SMART Lab. Users of this dataset should acknowledge the source institution, SMART Lab. For questions about data collection, any collaboration, or request for the full dataset, please contact: smart.nyuad@gmail.com
+Data collected at New York University Abu Dhabi by the SMART Lab. Users of this dataset should acknowledge the source institution, SMART Lab. For questions about data collection, any collaboration, or request for the full dataset, please contact: nyuad.smart@gmail.com
 
 ---
 *By accessing or using this data, you acknowledge that you have read, understood, and agree to these terms and limitations.*
