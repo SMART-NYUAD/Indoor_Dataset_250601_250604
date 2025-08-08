@@ -1,4 +1,4 @@
-# Data Disclaimer - Laboratory Sensor Readings
+# Sensor Reading Comparison from Digital Twin Project, S.M.A.R.T. Lab 
 
 ## Data Collection Details
 
@@ -21,17 +21,11 @@ For detailed technical specifications and methodology regarding the custom Sensi
 ## Important Disclaimers
 
 ### Data Quality and Limitations
-- This dataset contains **raw, unprocessed sensor readings** and has not undergone comprehensive quality assurance procedures
+- This dataset contains **raw, unprocessed sensor readings** and has not undergone comprehensive quality assurance procedures. Anomalies or measurement uncertainties may be present and have not been systematically identified or corrected.
 - The custom-built Sensirion SEN55 sensors (Numbers 2 and 7) may exhibit different calibration characteristics compared to commercial equivalents
-- Two different laboratory environments were used for data collection, which may introduce environmental variability
-- Data gaps, anomalies, or measurement uncertainties may be present and have not been systematically identified or corrected
-
-### Intended Use
-- Commercial use requires explicit written permission from NYU Abu Dhabi and SMART Lab
-
 
 ### Acknowledgment
-Data collected at New York University Abu Dhabi by the SMART Lab. Users of this dataset should acknowledge the source institution, SMART Lab. For questions about data collection methodology, sensor specifications, or technical details, please contact: smart.nyuad@gmail.com
+Data collected at New York University Abu Dhabi by the SMART Lab. Users of this dataset should acknowledge the source institution, SMART Lab. For questions about data collection, any collaboration, or request for the full dataset, please contact: smart.nyuad@gmail.com
 
 ---
 *By accessing or using this data, you acknowledge that you have read, understood, and agree to these terms and limitations.*
